@@ -6,6 +6,7 @@
  */
 #include "Arduino.h"
 #include "lassEsBlinken.h"
+#include "HardwareSerial.h"
 
 /*
   Blink
